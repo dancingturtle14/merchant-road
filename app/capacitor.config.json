@@ -1,0 +1,8 @@
+{
+  "appId": "com.merchantroad.app",
+  "appName": "商途",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
